@@ -1,0 +1,6 @@
+void main()  
+{  
+  var name = "Md.Altaf Hossain";  
+    var myage = 35;  
+   print("My name is ${name} My Age is ${myage}");  
+}
